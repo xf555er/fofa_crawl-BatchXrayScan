@@ -10,6 +10,9 @@
 ## 去fofa登录你的账号，然后获取cookie
 ![image](https://github.com/xf555er/fofa_crawl/blob/master/images/%E8%8E%B7%E5%8F%96cookie.png)
 ***
-## 进入爬虫文件所在目录,执行cmd命令，爬取的结果会以xls表格方式保存
-```python fofa.py```
+## 进入爬虫文件所在目录,，爬取的结果会以xls表格方式保存
+## ```python fofa.py```
 ![image](https://github.com/xf555er/fofa_crawl/blob/master/images/1.png)
+***
+## 
+
