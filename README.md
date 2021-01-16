@@ -10,9 +10,10 @@
 ## 去fofa登录你的账号，然后获取cookie
 ![image](https://github.com/xf555er/fofa_crawl/blob/master/images/%E8%8E%B7%E5%8F%96cookie.png)
 ***
-## 进入爬虫文件所在目录,，爬取的结果会以xls表格方式保存
-## ```python fofa.py```
+## 进入爬虫文件所在目录,执行爬虫文件，爬取结果会以xls文档保存
+```python fofa.py```
 ![image](https://github.com/xf555er/fofa_crawl/blob/master/images/1.png)
 ***
-## 
+## 这里我弄了个Xray的批量扫描，扫描的文件可以是爬取后生成的xls文档或者你自己弄的txt文件
+
 
