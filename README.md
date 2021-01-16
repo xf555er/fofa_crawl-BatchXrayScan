@@ -15,4 +15,5 @@
 ![image](https://github.com/xf555er/fofa_crawl/blob/master/images/1.png)
 ***
 ## 这里我弄了个Xray的批量扫描，扫描的文件可以是爬取后生成的xls文档或者你自己弄的txt文件
+```python Xray_Scan.py```
 ![image](https://github.com/xf555er/fofa_crawl-BatchXrayScan/blob/master/images/xray%E6%89%B9%E9%87%8F%E6%89%AB%E6%8F%8F.png)
